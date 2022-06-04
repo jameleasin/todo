@@ -1,8 +1,10 @@
-
+import Register from "./signIn/Register";
 
 function App() {
   return (
-    <App />
+    <main className="App">
+      <Register />
+      </main>
   );
 }
 
